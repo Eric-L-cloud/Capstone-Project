@@ -1,0 +1,22 @@
+act  a EDA. read df_clean_index_1.csv. Each row is a investor description. analysis the data, then provide the list of below. just summary the distinct value. Must not provide the value per investor index. Each columns may include multi-value. If there are not described, please set the value to Not described.  tags.csv is a previous data set result of the distinct values for each category, please enhance the value list in csv format.
+1.Primary Investor Type
+2.target Investment Country.
+3.Investment Type
+4.Preferred Industry
+
+Do not get the base or HQ location for the target Investment country. Also. please convert the target Investment Geography to Country.
+
+--part 2
+
+act  a EDA. read df_clean_index_1.csv. Each row is a investor description. analysis the data, then provide the analysis column. 
+Do not get the base or HQ location for the target Investment country. Also. please convert the target Investment Geography to Country.
+Each columns may include multi-value. There are analysis value list on other file, you may return one or more value in index format.   If there are not described, please set the value to Not described (value:0).
+
+analysis column list as below:
+1.Primary Investor Type
+2.target Investment Country.
+3.Investment Type
+4.Preferred Industry
+
+Do not output the description column.
+Use csv, do not use semicolon to separate the multi-value.
