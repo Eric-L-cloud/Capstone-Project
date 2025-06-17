@@ -1,0 +1,11 @@
+Cluster row,investment_type
+0,"['debt - general', 'senior debt', 'subordinated debt', 'secured debt', 'debt refinancing', 'junior debt', 'unsecured debt', 'debt conversion', 'revolving credit line', 'debt repayment', 'unsubordinated debt', 'debt - ppp', 'bank debt']"
+1,"['buyout/lbo', 'carveout', 'secondary transaction - private', 'ipo', 'secondary buyout', 'gp stakes', 'secondary transaction - open market', 'second lien', 'secondary transaction - stock distribution']"
+2,"['merger/acquisition', 'management buy-in', 'corporate divestiture', 'asset acquisition', 'asset divestiture (corporate)', 'corporate asset purchase', 'reverse merger', 'asset management', 'group asset management', 'merger and acquisition consulting']"
+3,"['early stage vc', 'seed round', 'later stage vc', 'accelerator/incubator', 'angel (individual)', 'mezzanine', 'spin-off', 'pipe', 'restart - early vc', 'restart - later vc', 'restart - angel']"
+4,"['convertible debt', 'bonds', 'capitalization', 'bonds (convertible)', 'bankruptcy: admin/reorg', 'bankruptcy: liquidation', 'debt - acquisition', 'debt - merger', 'debtor-in-possession', 'debt - spinoff']"
+5,"['grant', 'bridge', 'sale-lease back facility', 'venture leasing', 'leasing and others.']"
+6,"['pe growth/expansion', 'management buyout', 'joint venture', 'public to private', 'equity for service', 'investor buyout by management', 'privatization', 'equity crowdfunding', 'public-private partnership', 'public investment 2nd offering', 'product crowdfunding', 'venture capital and private equity principals', 'venture capital & private equity']"
+7,"['insurance', 'other insurance', 'life and health insurance', 'multi-line insurance', 'property and casualty insurance']"
+8,"['recapitalization', 'leveraged recapitalization', 'merger of equals', 'dividend recapitalization', 'share repurchase']"
+9,"['acquisition financing', 'loan', 'distressed acquisition', 'exit financing', 'vendor loan', 'seller notes']"
